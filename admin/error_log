@@ -1,0 +1,178 @@
+[14-Nov-2024 21:02:22 Europe/Riga] PHP Notice:  Undefined index: lomaDEB in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 56
+[14-Nov-2024 21:02:23 Europe/Riga] PHP Notice:  Undefined index: lomaDEB in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 56
+[14-Nov-2024 21:14:11 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 11
+[14-Nov-2024 21:14:13 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 11
+[14-Nov-2024 21:14:23 Europe/Riga] PHP Notice:  Undefined variable: count_last_24_hours in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 66
+[14-Nov-2024 21:54:50 Europe/Riga] PHP Parse error:  syntax error, unexpected end of file in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 151
+[14-Nov-2024 21:55:35 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:55:35 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:55:35 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:55:35 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:55:35 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:55:35 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:55:35 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:31 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:31 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:31 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:31 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:31 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:31 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:56:31 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:08 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:08 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:08 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:08 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:08 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:08 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:08 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:19 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:19 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:19 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:19 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:19 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:19 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:19 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 143
+[14-Nov-2024 21:57:59 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:57:59 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:57:59 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:57:59 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:57:59 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:57:59 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:57:59 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:00 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:01 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:01 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:01 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:01 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:01 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:01 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:01 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:02 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:02 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:02 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:02 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:02 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:02 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:02 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:10 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:10 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:10 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:10 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:10 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:10 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:10 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:41 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:41 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:41 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:41 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:41 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:41 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:41 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:42 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:42 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:42 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:42 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:42 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:42 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:42 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:45 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:45 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:45 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:45 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:45 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:45 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:58:45 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:59:18 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:59:18 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:59:18 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:59:18 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:59:18 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:59:18 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:59:18 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 141
+[14-Nov-2024 21:59:49 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:49 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:49 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:49 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:49 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:49 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:49 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:50 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:50 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:50 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:50 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:50 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:50 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 21:59:50 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 22:00:17 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 22:00:17 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 22:00:17 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 22:00:17 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 22:00:17 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 22:00:17 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 22:00:17 Europe/Riga] PHP Notice:  Undefined index: statuss in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 142
+[14-Nov-2024 22:08:25 Europe/Riga] PHP Warning:  require(con_db.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 155
+[14-Nov-2024 22:08:25 Europe/Riga] PHP Fatal error:  require(): Failed opening required 'con_db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 155
+[14-Nov-2024 22:08:26 Europe/Riga] PHP Warning:  require(con_db.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 155
+[14-Nov-2024 22:08:26 Europe/Riga] PHP Fatal error:  require(): Failed opening required 'con_db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 155
+[14-Nov-2024 22:08:53 Europe/Riga] PHP Warning:  require(con_db.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 2
+[14-Nov-2024 22:08:53 Europe/Riga] PHP Fatal error:  require(): Failed opening required 'con_db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 2
+[14-Nov-2024 22:43:01 Europe/Riga] PHP Warning:  A non-numeric value encountered in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 192
+[15-Nov-2024 00:10:33 Europe/Riga] PHP Notice:  Undefined variable: count_last_24_hours_query in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 15
+[15-Nov-2024 00:10:33 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 15
+[15-Nov-2024 00:10:37 Europe/Riga] PHP Notice:  Undefined variable: count_last_24_hours_query in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 15
+[15-Nov-2024 00:10:37 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 15
+[15-Nov-2024 00:11:28 Europe/Riga] PHP Notice:  Undefined variable: count_new_query in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 16
+[15-Nov-2024 00:11:28 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function get_result() on null in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 16
+[15-Nov-2024 00:11:40 Europe/Riga] PHP Notice:  Undefined variable: count_new_query in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 16
+[15-Nov-2024 00:11:40 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function get_result() on null in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 16
+[15-Nov-2024 00:13:51 Europe/Riga] PHP Notice:  Undefined variable: count_new_query in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 21
+[15-Nov-2024 00:13:51 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function get_result() on null in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 21
+[15-Nov-2024 00:13:57 Europe/Riga] PHP Notice:  Undefined variable: count_new_query in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 21
+[15-Nov-2024 00:13:57 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function get_result() on null in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 21
+[15-Nov-2024 00:19:23 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 11
+[15-Nov-2024 00:19:28 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/index.php on line 11
+[15-Nov-2024 10:18:01 Europe/Riga] PHP Warning:  require(con_db.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/lietotaji.php on line 5
+[15-Nov-2024 10:18:01 Europe/Riga] PHP Fatal error:  require(): Failed opening required 'con_db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/lietotaji.php on line 5

@@ -1,0 +1,46 @@
+[15-Nov-2024 08:51:05 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php on line 7
+[15-Nov-2024 08:51:06 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php on line 7
+[15-Nov-2024 08:51:51 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php on line 7
+[15-Nov-2024 08:51:52 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php:7
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php on line 7
+[15-Nov-2024 08:59:32 Europe/Riga] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php on line 8
+[15-Nov-2024 09:01:18 Europe/Riga] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php on line 8
+[15-Nov-2024 09:01:19 Europe/Riga] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php on line 8
+[15-Nov-2024 09:01:20 Europe/Riga] PHP Notice:  Trying to get property 'num_rows' of non-object in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/lietotaji_list.php on line 8
+[15-Nov-2024 09:12:11 Europe/Riga] PHP Notice:  Undefined variable: json in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_single.php on line 34
+[15-Nov-2024 09:12:11 Europe/Riga] PHP Notice:  Trying to access array offset on value of type null in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_single.php on line 34
+[15-Nov-2024 10:14:12 Europe/Riga] Šāds lietotājvārds jau eksistē! Lūdzu, izvēlieties citu vārdu.
+[18-Nov-2024 15:34:14 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_add.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_add.php on line 15
+[18-Nov-2024 15:34:16 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_add.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_add.php on line 15
+[18-Nov-2024 15:36:13 Europe/Riga] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_add.php on line 28
+[18-Nov-2024 15:36:13 Europe/Riga] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_add.php on line 28
+[18-Nov-2024 15:36:23 Europe/Riga] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikums_add.php on line 28
+[21-Nov-2024 15:26:30 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikumi_list.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikumi_list.php on line 22
+[21-Nov-2024 15:26:35 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikumi_list.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikumi_list.php on line 22
+[21-Nov-2024 15:27:27 Europe/Riga] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikumi_list.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/admin/database/pieteikumi_list.php on line 22

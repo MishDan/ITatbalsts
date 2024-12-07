@@ -1,0 +1,18 @@
+[21-Nov-2024 13:35:20 Europe/Riga] PHP Warning:  require_once(../../stripe-php-master/init.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/checkout.php on line 2
+[21-Nov-2024 13:35:20 Europe/Riga] PHP Fatal error:  require_once(): Failed opening required '../../stripe-php-master/init.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/checkout.php on line 2
+[21-Nov-2024 13:42:48 Europe/Riga] PHP Warning:  require_once(../../stripe-php-master/init.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/checkout.php on line 2
+[21-Nov-2024 13:42:48 Europe/Riga] PHP Fatal error:  require_once(): Failed opening required '../../stripe-php-master/init.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/checkout.php on line 2
+[21-Nov-2024 13:43:17 Europe/Riga] PHP Warning:  require_once(../stripe-php-master/init.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/checkout.php on line 2
+[21-Nov-2024 13:43:17 Europe/Riga] PHP Fatal error:  require_once(): Failed opening required '../stripe-php-master/init.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/checkout.php on line 2
+[21-Nov-2024 13:43:28 Europe/Riga] PHP Warning:  require_once(stripe-php-master/init.php): failed to open stream: No such file or directory in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/checkout.php on line 2
+[21-Nov-2024 13:43:28 Europe/Riga] PHP Fatal error:  require_once(): Failed opening required 'stripe-php-master/init.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/checkout.php on line 2
+[21-Nov-2024 14:12:05 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 3
+[21-Nov-2024 14:12:46 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 3
+[21-Nov-2024 14:16:39 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 3
+[21-Nov-2024 14:20:12 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 3
+[21-Nov-2024 14:22:53 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 3
+[21-Nov-2024 14:26:56 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 3
+[21-Nov-2024 14:28:47 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 3
+[21-Nov-2024 14:29:19 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 3
+[21-Nov-2024 14:36:22 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 4
+[21-Nov-2024 14:37:15 Europe/Riga] PHP Notice:  Undefined index: session.php in /home2/grobina1/public_html/3pt2/miscuks/ITatbalstsMis1321/payment/success.php on line 4
